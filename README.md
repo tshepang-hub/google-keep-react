@@ -13,19 +13,3 @@ A modern, responsive React-based clone of Google Keep, designed to help users cr
 - **Clean Interface**: Simple and user-friendly UI.
 
 ---
-
-## **Prerequisites**
-Ensure the following tools are installed on your machine before running the project:
-- **Node.js** (v16 or higher recommended)  
-  [Download Node.js](https://nodejs.org)
-- **npm** or **yarn** (for package management)
-
----
-
-## **Setup Instructions**
-
-### **1. Clone the Repository**
-Clone this repository to your local machine using the following command:
-```bash
-git clone https://github.com/your-username/google-keep-clone.git
-cd google-keep-clone
